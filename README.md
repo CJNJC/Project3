@@ -6,7 +6,7 @@ Building a file storage app that allows user upload/view/edit/delete files
 
 ### Owners
 
-- [Jehee Choi](https://github.com/JeheeChoi)
+- [J(Jehee) Choi](https://github.com/JeheeChoi)
 - [Jasmine Edwards](https://github.com/jasmineked)
 - [Nathan Gundy](https://github.com/gundyn)
 - [Christopher Farish](https://github.com/orgs/CJNJC/people/CPF32)
