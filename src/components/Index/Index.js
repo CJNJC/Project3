@@ -59,10 +59,10 @@ class IndexUpload extends React.Component {
                     <td>{index + 1}</td>
                     <td>{(upload.url && (upload.url.includes('jpg') || upload.url.includes('png'))) ? <img src={upload.url} width={50} /> : ''}</td>
                     <td onClick={() => history.push('/uploads/' + upload._id)}>{upload.name}</td>
-                    <td>{upload.owner}</td>
-                    <td>{upload.tag}</td>
-                    <td>{upload.createdAt}</td>
-                    <td>{upload.updatedAt}</td>
+                    <td onClick={() => history.push('/uploads/' + upload._id)}>{upload.owner}</td>
+                    <td onClick={() => history.push('/uploads/' + upload._id)}>{upload.tag}</td>
+                    <td onClick={() => history.push('/uploads/' + upload._id)}>{upload.createdAt}</td>
+                    <td onClick={() => history.push('/uploads/' + upload._id)}>{upload.updatedAt}</td>
                     <td><a href={upload.url} target="_blank" rel="noreferrer">{upload.url}</a></td>
                   </tr>
                 )
