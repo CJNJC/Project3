@@ -1,22 +1,13 @@
-### Project 3 - File storage 
+### Project 3 - File storage
 
-Building a file storage app that allows user upload/view/edit/delete files 
+Building a file storage app that allows user upload/view/edit/delete files
 
 - - - -
 
 ### Owners
 
 - [J(Jehee) Choi](https://github.com/JeheeChoi)
-- [Jasmine Edwards](https://github.com/jasmineked)
-- [Nathan Gundy](https://github.com/gundyn)
 - [Christopher Farish](https://github.com/orgs/CJNJC/people/CPF32)
-
-- - - -
-### Teamwork
-
-- Get | Update : Jasmine & Nathan 
-- Delete | Create : Chris & J
-- Worked all together on back end before moving on to front end
 
 - - - -
 
@@ -29,7 +20,7 @@ Building a file storage app that allows user upload/view/edit/delete files
 
 - - - -
 
-### User Stories 
+### User Stories
 - As an unregistered user, I would like to sign up with email and password.
 - As a registered user, I would like to sign in with email and password.
 - As a signed in user, I would like to change password.
@@ -43,12 +34,7 @@ Building a file storage app that allows user upload/view/edit/delete files
 
 - - - -
 
-### WireFrames 
-
-- Nathan
-
-![wireframe1](https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fi.imgur.com%2FG74T3poh.jpgttps://i.imgur.com/GNA3lxo.png)
-
+### WireFrames
 - J
 
 ![wireframe2](https://i.imgur.com/pIEb9C5.png)
@@ -57,18 +43,14 @@ Building a file storage app that allows user upload/view/edit/delete files
 
 ![wireframe4](https://i.imgur.com/msGUx6W.jpg)
 
-- Jasmine
-
-![wireframe5](https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fi.imgur.com%2FvRMXl7j.jpg)
-
 - - - -
 
 ### Important Links
 
-- [Project Front End Repo](https://github.com/CJNJC/project3-react-client)
-- [Project Back End Repo](https://github.com/CJNJC/project3-api)
-- [Deployed API](https://safe-eyrie-19741.herokuapp.com/uploads)
-- [Deployed Client](https://CJNJC/github.io/project3-react-client)
+- [Project Front End Repo]
+- [Project Back End Repo]
+- [Deployed API]
+- [Deployed Client]
 
 - - - -
 
@@ -95,8 +77,3 @@ Building a file storage app that allows user upload/view/edit/delete files
 | DELETE        | /uploads/`:id` | delete upload      |
 
 - - - -
-
-### Unsolved Problems 
-
-- We'd like to make the application more user friendly and professionally styled
-- We'd like to be able to categorize uploaded files by date uploaded, date updated, file type, owner, and tag
